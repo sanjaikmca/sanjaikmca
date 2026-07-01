@@ -134,7 +134,57 @@
 
 ---
 
-## 🔄 Currently Building
+## 🏅 Certifications & Achievements
+
+### 🎖 Academic Excellence
+- 🥇 **First Rank Holder (MCA Final Year)** – Hindustan Institute of Technology & Science (CGPA: **9.46**)
+- 🥈 **Second Rank Holder (MCA First Year)** – Hindustan Institute of Technology & Science
+- 📄 **IEEE Published Researcher** – *Automated Brain Tumor Segmentation in MRI Scans using Deep U-Net Framework*
+- 🎤 **IEEE Conference Presenter** – ICCRTEE 2026, Kalasalingam Academy of Research and Education
+
+---
+
+### 📜 Professional Certifications
+
+| Certification | Issued By |
+|----------------|-----------|
+| 🏅 Introduction to Algorithms and Analysis (Elite) | NPTEL – IIT Kharagpur |
+| ☁️ Cloud Computing | NPTEL – IIT Kharagpur |
+| 💬 Enhancing Soft Skills and Personality (Elite) | NPTEL – IIT Kanpur |
+| 🍃 MongoDB Basics for Students | MongoDB Academy |
+| 🧑‍💻 AI/ML Research Internship Completion | Hindustan Institute of Technology & Science |
+
+---
+
+### 🚀 Workshops & Events
+
+- 💻 **Intellithon'25** – 24-Hour National Hackathon (Cloud Partner: Zoho)
+- 📊 **Practical Approaches to Data Analytics Using SQL and Cloud Services** – Five-Day Workshop
+- 🤖 AI/ML Research Internship – Directorate of Research & Consultancy, Hindustan Institute of Technology & Science
+
+---
+
+### 🏆 Highlights
+
+🏅 MCA First Rank Holder (Final Year)
+
+🥈 MCA Second Rank Holder (First Year)
+
+📄 IEEE Published Research Paper
+
+🎤 IEEE International Conference Presenter
+
+🎓 NPTEL Elite Certified Learner
+
+🍃 MongoDB Certified
+
+💻 AI Research Intern
+
+🚀 National Hackathon Participant## 
+
+---
+
+🔄 Currently Building
 
 🤖 LLM + RAG Chatbot
 

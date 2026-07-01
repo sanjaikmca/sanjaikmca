@@ -1,139 +1,189 @@
 <div align="center">
 
-# Hi 👋, I'm **Sanjai K**
+# 👋 Hi, I'm Sanjai K
 
-### 🚀 Machine Learning Engineer | AI Enthusiast | IEEE Published Researcher
+### 🚀 Machine Learning Engineer | AI Researcher | IEEE Published Researcher
 
-<p>
-Building intelligent AI solutions with Machine Learning, Deep Learning, Computer Vision, and Large Language Models.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;Large+Language+Models+(LLMs);AI+Agents+%7C+RAG+%7C+LangChain;Always+Learning+%F0%9F%9A%80" />
 
 <p>
-<a href="https://github.com/sanjaikmca"><img src="https://komarev.com/ghpvc/?username=sanjaikmca&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></a>
+<a href="https://github.com/sanjaikmca"><img src="https://img.shields.io/github/followers/sanjaikmca?label=Followers&style=for-the-badge"></a>
+<a href="https://github.com/sanjaikmca"><img src="https://img.shields.io/github/stars/sanjaikmca?affiliations=OWNER&style=for-the-badge"></a>
+<img src="https://komarev.com/ghpvc/?username=sanjaikmca&style=for-the-badge&color=blue" />
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-🎓 **MCA Graduate (CGPA: 9.46)** from Hindustan Institute of Technology & Science, Chennai
+🎓 MCA Graduate (CGPA **9.46**) from Hindustan Institute of Technology & Science
 
-📄 **IEEE Published Researcher** in Brain Tumor Segmentation using Deep U-Net
+📄 IEEE Published Researcher in **Brain Tumor Segmentation using Deep U-Net**
 
 🏆 Academic Rank Holder
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and NLP.
+💡 Passionate about solving real-world problems using Artificial Intelligence and Machine Learning.
 
-🌱 Currently learning:
+🔬 Areas of Interest
 
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
 * Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* LangChain
-* LangGraph
 * AI Agents
 * MLOps
 
-🎯 Looking for opportunities as a **Machine Learning Engineer** / **AI Engineer**.
+🎯 **Currently seeking opportunities as a Machine Learning Engineer / AI Engineer.**
 
 ---
 
 # 🌐 Connect With Me
 
-🌍 **Portfolio:** https://sanjaikmca.github.io/Sanjai_Portfolio/
+<p align="left">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/sanjaikmca
+<a href="https://www.linkedin.com/in/sanjaikmca">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-💻 **GitHub:** https://github.com/sanjaikmca
+<a href="mailto:sanjaikumarmca@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-📧 **Email:** [sanjaikumarmca@gmail.com](mailto:sanjaikumarmca@gmail.com)
+<a href="https://github.com/sanjaikmca">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://sanjaikmca.github.io/Sanjai_Portfolio/">
+🌍 Portfolio
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
-* Python
-* C++
-* JavaScript
-* HTML
-* CSS
-* SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,mysql"/>
+</p>
 
-### Machine Learning & AI
+### AI / Machine Learning
 
-* TensorFlow
-* Keras
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+**Libraries**
+
 * Scikit-learn
-* OpenCV
-* NumPy
+* Keras
 * Pandas
+* NumPy
 * Matplotlib
 
 ### Tools
 
-* Git & GitHub
-* Jupyter Notebook
-* Google Colab
-* VS Code
-* MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 Brain Tumor Segmentation using Deep U-Net
+## 🧠 Brain Tumor Segmentation using Deep U-Net
 
-* IEEE Published Research
-* Medical Image Segmentation
-* TensorFlow & OpenCV
+📄 IEEE Published Research
 
-### 🩺 Chest X-ray Disease Classification
+✔ MRI Image Segmentation
 
-* MobileNet Transfer Learning
-* Grad-CAM Explainability
-* Medical AI
+✔ TensorFlow
 
-### 🖼️ Image Caption Generator
+✔ OpenCV
 
-* VGG16 + LSTM
-* Computer Vision + NLP
-* MS COCO Dataset
+✔ Dice Score Optimization
 
 ---
 
-# 📚 Currently Exploring
+## 🩺 Chest X-ray Disease Classification
+
+✔ MobileNet
+
+✔ Transfer Learning
+
+✔ Grad-CAM
+
+✔ Medical AI
+
+---
+
+## 🖼 Image Caption Generator
+
+✔ VGG16
+
+✔ LSTM
+
+✔ NLP
+
+✔ Computer Vision
+
+---
+
+## 🔄 Currently Building
+
+🤖 LLM + RAG Chatbot
+
+🤖 AI Agents using LangGraph
+
+⚙ MLOps Projects
+
+📊 End-to-End Machine Learning Applications
+
+---
+
+# 📚 Currently Learning
 
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
 * LangChain
 * LangGraph
 * AI Agents
-* MLOps
 * FastAPI
 * Docker
+* MLflow
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sanjaikmca\&show_icons=true\&theme=github_dark)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikmca\&layout=compact\&theme=github_dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjaikmca&show_icons=true&theme=tokyonight"/>
 
-![](https://streak-stats.demolab.com?user=sanjaikmca\&theme=github-dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikmca&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanjaikmca&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🏆 Achievements
 
-🏅 IEEE Published Researcher
+🥇 IEEE Published Researcher
 
 🎤 IEEE Conference Presenter
 
-🥇 Academic Rank Holder
+🏅 Academic Rank Holder
 
 💼 AI Research Intern
 
@@ -143,32 +193,38 @@ Building intelligent AI solutions with Machine Learning, Deep Learning, Computer
 
 ---
 
-# 🎯 2026 Goals
+# 📊 GitHub Activity
 
-* Build production-ready AI & Machine Learning applications
-* Master LLMs, RAG, and AI Agents
-* Learn MLOps and Cloud Deployment
-* Contribute to Open Source
-* Publish more AI research
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaikmca&theme=tokyo-night"/>
 
 ---
 
-# 📊 Contribution Graph
+# 🎯 2026 Roadmap
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaikmca\&theme=github-dark)](https://github.com/sanjaikmca)
+✅ Master LLMs
+
+✅ Build Production AI Applications
+
+✅ Learn MLOps
+
+✅ Contribute to Open Source
+
+✅ Publish More Research
+
+✅ Become a Machine Learning Engineer
 
 ---
 
-# 💬 Favorite Quote
+# 💬 Quote
 
-> *"The best way to predict the future is to build it."* — Alan Kay
+> **"Every line of code is an opportunity to learn, innovate, and create intelligent solutions."**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting my profile!
 
-*"Always learning. Always building. Always improving."*
+**If you like my work, don't forget to ⭐ my repositories!**
 
 </div>

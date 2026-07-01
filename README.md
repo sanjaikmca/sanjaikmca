@@ -211,7 +211,7 @@
 
 # 💬 Quote
 
-> **"Every line of code is an opportunity to learn, innovate, and create intelligent solutions."**
+> **"The best models are not just trained on data, but on curiosity, failed attempts, and persistence."**
 
 ---
 

@@ -1,24 +1,30 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sanjai K</h1>
 
-# 👋 Hi, I'm Sanjai K
-
-### 🚀 Machine Learning Engineer | AI & Data Enthusiast | IEEE Published Researcher
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Data+Engineering+%7C+Data+Analytics;LLMs+%7C+RAG+%7C+LangChain;Always+Learning+New+Technologies+🚀" />
+<h3 align="center">Machine Learning Engineer • AI Enthusiast • IEEE Published Researcher</h3>
 
 <p align="center">
-<a href="https://github.com/sanjaikmca"><img src="https://img.shields.io/github/followers/sanjaikmca?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/sanjaikmca"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://sanjaikmca.github.io/Sanjai_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/></a>
+Building intelligent solutions with Artificial Intelligence, Machine Learning, Data Engineering, and Generative AI.
 </p>
 
-</div>
+<p align="center">
+<a href="https://github.com/sanjaikmca">
+<img src="https://img.shields.io/github/followers/sanjaikmca?label=Followers&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/sanjaikmca">
+<img src="https://img.shields.io/github/stars/sanjaikmca?affiliations=OWNER&style=for-the-badge" />
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=sanjaikmca">
+<img src="https://komarev.com/ghpvc/?username=sanjaikmca&label=Profile%20Views&style=for-the-badge&color=blue" />
+</a>
+</p>
 
 ---
 
 # 🚀 About Me
 
-🎓 MCA Graduate (CGPA **9.46**) from Hindustan Institute of Technology & Science
+🎓 MCA Graduate (CGPA **9.46**) from Hindustan Institute of Technology & Science, Chennai
 
 📄 IEEE Published Researcher in **Brain Tumor Segmentation using Deep U-Net**
 
@@ -26,103 +32,137 @@
 
 🏆 Academic Rank Holder
 
-💡 Passionate about solving real-world problems using Artificial Intelligence, Machine Learning, Data Engineering, and Data Analytics.
+💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Engineering, and Data Analytics.
 
-🌱 Currently exploring
+🌱 Currently learning
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- LangChain & LlamaIndex
+- LangChain
+- LlamaIndex
 - Hugging Face
-- Data Engineering
+- AI Agents
 - MLOps
+- Data Engineering
 
-🎯 **Seeking opportunities as a Machine Learning Engineer / AI Engineer / Data Engineer.**
+🎯 Looking for opportunities as a
+
+- Machine Learning Engineer
+- AI Engineer
+- Data Engineer
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email: **sanjaikumarmca@gmail.com**
+<p align="center">
 
-💼 LinkedIn: **https://www.linkedin.com/in/sanjaikmca**
+<a href="mailto:sanjaikumarmca@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-🌍 Portfolio: **https://sanjaikmca.github.io/Sanjai_Portfolio/**
+<a href="https://www.linkedin.com/in/sanjaikmca">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-💻 GitHub: **https://github.com/sanjaikmca**
+<a href="https://github.com/sanjaikmca">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://sanjaikmca.github.io/Sanjai_Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+## 💻 Languages
 
-- Python
-- SQL
-- JavaScript
-- HTML
-- CSS
+<p>
 
-### Machine Learning & AI
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,mysql"/>
 
-- TensorFlow
-- Keras
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</p>
+
+**Libraries**
+
 - Scikit-learn
-- OpenCV
+- Keras
 - Pandas
 - NumPy
 - Matplotlib
 
-### Data Engineering
+---
 
-- ETL Pipelines
-- Data Wrangling
-- Data Ingestion
-- MySQL
-- Power BI
-- Excel
-
-### LLM & GenAI
+## 🧠 LLM & Generative AI
 
 - LangChain
 - LlamaIndex
-- Hugging Face
+- Hugging Face Transformers
 - OpenAI API
 - Prompt Engineering
-- RAG
+- Retrieval-Augmented Generation (RAG)
 
-### Tools
+---
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
+## 📊 Data Engineering & Analytics
+
+- ETL Pipelines
+- Data Ingestion
+- Data Wrangling
+- MySQL
+- Power BI
+- MS Excel
+
+---
+
+## 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+
+</p>
+
+Jupyter Notebook • Google Colab
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 Brain Tumor Segmentation in MRI Scans
+### 🧠 Brain Tumor Segmentation using Deep U-Net
 
 - IEEE Published Research
-- Deep U-Net Architecture
 - TensorFlow
 - OpenCV
+- Dice Score Optimization
 - Medical Image Segmentation
 
 ---
 
-## 🩺 Chest X-Ray Image Classification
+### 🩺 Chest X-ray Disease Classification
 
 - MobileNet Transfer Learning
-- Grad-CAM
 - TensorFlow
+- Grad-CAM
 - Medical AI
 
 ---
 
-## 🖼 Image Caption Generator
+### 🖼 Image Caption Generator
 
 - VGG16
 - LSTM
@@ -132,23 +172,23 @@
 
 ---
 
-## 🤖 Upcoming Projects
+### 🚧 Currently Building
 
 - LLM + RAG Chatbot
 - AI Resume Analyzer
 - AI Interview Assistant
 - Data Engineering ETL Pipeline
-- End-to-End ML Pipeline
+- End-to-End Machine Learning Pipeline
 
 ---
 
 # 🏅 Certifications & Achievements
 
-## 🎖 Academic Achievements
+## 🏆 Academic Achievements
 
-🥇 First Rank Holder – MCA Final Year
+🥇 MCA First Rank Holder
 
-🥈 Second Rank Holder – MCA First Year
+🥈 MCA Second Rank Holder
 
 📄 IEEE Published Researcher
 
@@ -158,61 +198,78 @@
 
 ## 📜 Certifications
 
-- NPTEL Elite – Introduction to Algorithms and Analysis
-- NPTEL – Cloud Computing
-- NPTEL Elite – Enhancing Soft Skills and Personality
-- MongoDB Basics for Students
-- AI/ML Research Internship
+🏅 Introduction to Algorithms and Analysis – NPTEL (Elite)
+
+☁️ Cloud Computing – NPTEL
+
+💬 Enhancing Soft Skills and Personality – NPTEL (Elite)
+
+🍃 MongoDB Basics for Students
+
+🤖 AI Research Internship
 
 ---
 
-## 🚀 Workshops & Events
+## 🚀 Workshops
 
-- Intellithon'25 – 24-Hour National Hackathon
-- SQL & Cloud Services Workshop
-- AI/ML Research Internship
+💻 Intellithon'25 – National Hackathon
+
+📊 SQL & Cloud Services Workshop
 
 ---
 
 # 📚 Currently Learning
 
-- Large Language Models (LLMs)
 - LangChain
 - LlamaIndex
 - Hugging Face
-- RAG
 - AI Agents
+- RAG
 - Docker
 - FastAPI
 - MLflow
 - Power BI
+- Data Engineering
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sanjaikmca&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikmca&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjaikmca&show_icons=true&theme=tokyonight"/>
 
-![](https://streak-stats.demolab.com?user=sanjaikmca&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikmca&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanjaikmca&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-- Build Production Ready AI Applications
-- Master LLMs & RAG
-- Learn Data Engineering
-- Learn MLOps
-- Contribute to Open Source
-- Publish More Research Papers
+✅ Build Production-Ready AI Applications
+
+✅ Master LLMs & RAG
+
+✅ Learn Data Engineering
+
+✅ Learn MLOps
+
+✅ Contribute to Open Source
+
+✅ Publish More Research Papers
 
 ---
 
 # 💬 Quote
 
-> **"Success is built one project, one experiment, and one lesson at a time."**
+> **"Curiosity drives learning, consistency builds expertise, and every project is a step toward creating impactful AI solutions."**
 
 ---
 
@@ -220,6 +277,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building intelligent solutions through AI, Machine Learning, and Data."*
+*"Learning. Building. Improving. One project at a time."*
 
 </div>

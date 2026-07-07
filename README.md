@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanjai K</h1>
 
-<h3 align="center">AI Enthusiast • Machine Learning Engineer • IEEE Published Researcher</h3>
+<h3 align="center">AI/ML Engineer • Data Enthusiast • IEEE Published Researcher</h3>
 
 <p align="center">
-Building intelligent solutions with Artificial Intelligence, Machine Learning, Data Engineering, and Generative AI.
+Building intelligent solutions with Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
 </p>
 
 ## 🚀 Latest Project

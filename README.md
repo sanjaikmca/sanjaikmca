@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sanjai K</h1>
 
-<h3 align="center">Machine Learning Engineer • AI Enthusiast • IEEE Published Researcher</h3>
+<h3 align="center">AI Enthusiast • Machine Learning Engineer • IEEE Published Researcher</h3>
 
 <p align="center">
 Building intelligent solutions with Artificial Intelligence, Machine Learning, Data Engineering, and Generative AI.
 </p>
+
+## 🚀 Latest Project
+
+### 🧠 DocMind AI – Intelligent Multi-Document Question Answering System
+
+Built using **RAG, LangChain, FAISS, Ollama (Llama 3), Streamlit**, and **Sentence Transformers**.
+
+🔗 **GitHub Repository:**  https://github.com/sanjaikmca/DocMind-AI
 
 <p align="center">
 <a href="https://github.com/sanjaikmca">
@@ -140,46 +148,54 @@ Building intelligent solutions with Artificial Intelligence, Machine Learning, D
 Jupyter Notebook • Google Colab
 
 ---
-
 # 🚀 Featured Projects
+
+### 🧠 DocMind AI – Intelligent Multi-Document Question Answering System
+
+- Built an AI-powered Multi-Document Question Answering System using Retrieval-Augmented Generation (RAG)
+- Supports PDF, DOCX, TXT, and Markdown documents
+- Semantic search using FAISS Vector Store
+- Llama 3 (Ollama) for context-aware answer generation
+- LangChain-based retrieval pipeline with source citations
+- Interactive Streamlit interface with document preview
+- **Tech Stack:** Python, Streamlit, LangChain, FAISS, Ollama, Llama 3, Sentence Transformers
+
+🔗 **GitHub:** https://github.com/sanjaikmca/DocMind-AI
+
+---
 
 ### 🧠 Brain Tumor Segmentation using Deep U-Net
 
-- IEEE Published Research
-- TensorFlow
-- OpenCV
-- Dice Score Optimization
-- Medical Image Segmentation
+- IEEE Published Research Paper
+- Deep U-Net architecture for MRI brain tumor segmentation
+- Achieved high Dice Score and IoU performance
+- Optimized using TensorFlow, OpenCV, and Keras
+- **Tech Stack:** Python, TensorFlow, Keras, OpenCV
+
+🔗 **GitHub:** https://github.com/sanjaikmca/Brain-MRI-Segmentation
 
 ---
 
 ### 🩺 Chest X-ray Disease Classification
 
-- MobileNet Transfer Learning
-- TensorFlow
-- Grad-CAM
-- Medical AI
+- Medical image classification using MobileNet Transfer Learning
+- Applied Grad-CAM for model interpretability
+- Fine-tuned pretrained CNN for improved accuracy
+- **Tech Stack:** Python, TensorFlow, MobileNet, OpenCV
+
+🔗 **GitHub:** https://github.com/sanjaikmca/Research-Intern---X-ray-at-HITS
 
 ---
 
 ### 🖼 Image Caption Generator
 
-- VGG16
-- LSTM
-- Computer Vision
-- NLP
-- MS COCO Dataset
+- Automatic image caption generation using CNN-LSTM architecture
+- VGG16 feature extraction with LSTM-based text generation
+- Trained on the MS COCO dataset
+- **Tech Stack:** Python, TensorFlow, VGG16, LSTM, NLP
 
----
-
-### 🚧 Currently Building
-
-- LLM + RAG Chatbot
-- AI Resume Analyzer
-- AI Interview Assistant
-- Data Engineering ETL Pipeline
-- End-to-End Machine Learning Pipeline
-
+🔗 **GitHub:** https://github.com/sanjaikmca/Academic-Project-Image-Captioning
+ 
 ---
 
 # 🏅 Certifications & Achievements
@@ -217,20 +233,14 @@ Jupyter Notebook • Google Colab
 📊 SQL & Cloud Services Workshop
 
 ---
+🌱 Currently exploring
 
-# 📚 Currently Learning
-
-- LangChain
-- LlamaIndex
-- Hugging Face
 - AI Agents
-- RAG
-- Docker
+- LangGraph
+- MLOps
+- Data Engineering
 - FastAPI
 - MLflow
-- Power BI
-- Data Engineering
-
 ---
 
 # 🎯 Goals for 2026
